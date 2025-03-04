@@ -12,7 +12,7 @@ Neste desafio, tive a oportunidade de aprender a realizar o reconhecimento facia
 
 ## Passo 1: Criando recurso do Face API no Azure AI Services para detecção de faces humanas
 
-Primeiro foi preciso criar um recurso de Face API dentro do Azure AI Services.
+Primeiro passo criar um recurso de Face API dentro do Azure AI Services.
 
 ![Captura de tela 2025-03-02 234424](https://github.com/user-attachments/assets/94645d2b-f997-484c-b955-25789f27cc95)
 
